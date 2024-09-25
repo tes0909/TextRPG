@@ -1,0 +1,14 @@
+C:\Users\krosa\source\repos\textRpg\textRpg\bin\Debug\net8.0\textRpg.exe
+C:\Users\krosa\source\repos\textRpg\textRpg\bin\Debug\net8.0\textRpg.deps.json
+C:\Users\krosa\source\repos\textRpg\textRpg\bin\Debug\net8.0\textRpg.runtimeconfig.json
+C:\Users\krosa\source\repos\textRpg\textRpg\bin\Debug\net8.0\textRpg.dll
+C:\Users\krosa\source\repos\textRpg\textRpg\bin\Debug\net8.0\textRpg.pdb
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.AssemblyInfoInputs.cache
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.AssemblyInfo.cs
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.csproj.CoreCompileInputs.cache
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.dll
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\refint\textRpg.dll
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.pdb
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\textRpg.genruntimeconfig.cache
+C:\Users\krosa\source\repos\textRpg\textRpg\obj\Debug\net8.0\ref\textRpg.dll
